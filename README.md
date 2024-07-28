@@ -1,5 +1,5 @@
 # Lamborghini Gallardo Depreciation and Buying Guide: Thailand
-![Lamborghini Gallardo](https://images.unsplash.com/photo-1571295420471-1fcb0bdb9d5e)
+<img src='./src/Gallado.jpg'>
 
 This repository provides an analysis of supercar depreciation, focusing on the Lamborghini Gallardo in Thailand.
 
